@@ -9,8 +9,12 @@ export class Empleado extends Persona {
     }
 
     public trabajar(): void {
-        console.log(`${this.nombre} trabaja 8 horas al día.`);
+    console.log(`${this.nombre} trabaja 8 horas al día.`);
     }
 
+    public saludar(): void {
+        console.log(`Empleado: Hola ${this.nombre}, tu edad es ${this.getEdad()} y el salario es de ${this.salario}.`);
+    }
+    
    
 }
