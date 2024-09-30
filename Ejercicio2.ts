@@ -1,4 +1,4 @@
-class Persona {
+export class Persona {
     // Propiedades
     nombre: string;
     edad: number;
@@ -14,8 +14,3 @@ class Persona {
         console.log(`Persona: Tu nombre es ${this.nombre} y tienes ${this.edad} años.`);
     }
 }
-// Crear una instancia de Persona
-const persona1 = new Persona('Dayana', 30);
-
-// Llamar al método saludar
-persona1.saludar();
