@@ -1,0 +1,13 @@
+[
+    { "nombre": "Empleado1", "edad": 31, "salario": 1000 },
+    { "nombre": "Empleado2", "edad": 32, "salario": 1100 },
+    { "nombre": "Empleado3", "edad": 33, "salario": 2100 },
+    { "nombre": "Empleado4", "edad": 34, "salario": 3100 },
+    { "nombre": "Empleado5", "edad": 35, "salario": 4100 },
+    { "nombre": "Empleado6", "edad": 36, "salario": 5100 },
+    { "nombre": "Empleado7", "edad": 37, "salario": 6100 },
+    { "nombre": "Empleado8", "edad": 38, "salario": 7100 },
+    { "nombre": "Empleado9", "edad": 39, "salario": 8100 },
+    { "nombre": "Empleado10", "edad": 10, "salario": 9100 }
+    
+]
